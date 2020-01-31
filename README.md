@@ -1,1 +1,1 @@
-# CS105_Stock_News_Analysis
+# CS105: Stock News Analysis
