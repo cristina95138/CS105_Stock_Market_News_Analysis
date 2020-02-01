@@ -4,7 +4,7 @@
 
 For the project we plan to analyze stock price and stock news data to ultimately create a machine learning model to predict stock prices based on current events. 
 
-Data Sets We Plan to Use
+## Data Sets We Plan to Use
 
 Stock price dataset (Download):
 https://www.kaggle.com/borismarjanovic/price-volume-data-for-all-us-stocks-etfs
