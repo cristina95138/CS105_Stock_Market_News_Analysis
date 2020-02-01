@@ -1,6 +1,6 @@
 # CS105: Stock News Analysis
 
-# Project Idea
+## Project Idea
 
 For the project we plan to analyze stock price and stock news data to ultimately create a machine learning model to predict stock prices based on current events. 
 
@@ -13,11 +13,11 @@ https://www.kaggle.com/aaron7sun/stocknews
 Additional headlines dataset (Web-Crawling):
 We will be scraped from crawling the reddit news page (r/news) with the pushshift.io Reddit API (https://github.com/pushshift/api).
 
-# How the Datasets are Correlated and What We’re Doing with Them
+## How the Datasets are Correlated and What We’re Doing with Them
 
 The stock market and news headlines datasets are correlated since national and international events have effects on economic outlook thus causing stock prices to fluctuate. We plan on finding if there are correlations between the type of news event (war, presidential election outcomes) and changes to stock prices of companies in certain industries. To show these correlations we will apply EDA to the data, comparing variables such as names, places, and other key words in the headlines and seeing if there are any strong connections to stock prices.
 
-# Information the Datasets Provide
+## Information the Datasets Provide
 
 Stock price dataset provides the low, high, open and close price for a stock, the date that the prices were recorded and the volume. They’re all stocks traded on the NYSE, NASDAQ, and NYSE MKT.
 
