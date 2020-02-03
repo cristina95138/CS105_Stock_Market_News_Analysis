@@ -7,9 +7,9 @@ For the project we plan to analyze stock price and stock news data to ultimately
 ## Data Sets We Plan to Use
 
 Stock price dataset (Download):
-https://www.kaggle.com/borismarjanovic/price-volume-data-for-all-us-stocks-etfs
+https://www.kaggle.com/borismarjanovic/price-volume-data-for-all-us-stocks-etfs \
 News headlines dataset (Download):
-https://www.kaggle.com/aaron7sun/stocknews
+https://www.kaggle.com/aaron7sun/stocknews \
 Additional headlines dataset (Web-Crawling):
 We will be scraped from crawling the reddit news page (r/news) with the pushshift.io Reddit API (https://github.com/pushshift/api).
 
