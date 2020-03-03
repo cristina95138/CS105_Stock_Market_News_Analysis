@@ -30,3 +30,5 @@ News headlines dataset provides the top 25 headlines from /r/worldnews, a Reddit
 https://github.com/cristina95138/CS105_Stock_News_Analysis/tree/master/cs105-prj-phase1-fintech-bros-master
 
 ### Phase 2
+
+https://github.com/cristina95138/CS105_Stock_News_Analysis/tree/master/cs105-prj-phase2-fintech-bros-master
