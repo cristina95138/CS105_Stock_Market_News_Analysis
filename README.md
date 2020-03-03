@@ -22,15 +22,3 @@ The stock market and news headlines datasets are correlated since national and i
 Stock price dataset provides the low, high, open and close price for a stock, the date that the prices were recorded and the volume. They’re all stocks traded on the NYSE, NASDAQ, and NYSE MKT.
 
 News headlines dataset provides the top 25 headlines from /r/worldnews, a Reddit community where people post articles relating to news outside of the US. The dataset contains headlines from 2008-06-08 to 2016-07-01.
-
-## Phases
-
-### Phase 1
-
-https://github.com/cristina95138/CS105_Stock_News_Analysis/tree/master/cs105-prj-phase1-fintech-bros-master
-
-### Phase 2
-
-https://github.com/cristina95138/CS105_Stock_News_Analysis/tree/master/cs105-prj-phase2-fintech-bros-master
-
-### Phase 3
