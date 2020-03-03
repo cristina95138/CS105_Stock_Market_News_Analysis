@@ -32,3 +32,5 @@ https://github.com/cristina95138/CS105_Stock_News_Analysis/tree/master/cs105-prj
 ### Phase 2
 
 https://github.com/cristina95138/CS105_Stock_News_Analysis/tree/master/cs105-prj-phase2-fintech-bros-master
+
+### Phase 3
