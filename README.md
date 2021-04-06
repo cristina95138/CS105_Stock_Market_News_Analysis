@@ -1,4 +1,4 @@
-# CS105: Stock News Analysis
+# CS105: Stock Market News Analysis
 
 ## Project Idea
 
